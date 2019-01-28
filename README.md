@@ -3,7 +3,7 @@ Validation and Generation of UTR tax numbers.
 
 Supports net35, net40, net45 and netstandard20.
 
-[![powells MyGet Build Status](https://www.myget.org/BuildSource/Badge/powells?identifier=7125dea2-58d2-47c2-83f5-19f1b185bd2e)](https://www.myget.org/)
+![Build Status](https://www.myget.org/BuildSource/Badge/powells?identifier=7125dea2-58d2-47c2-83f5-19f1b185bd2e)
 
 Warning: The UTR generator is for testing purposes only. It generates UTR numbers that pass the UTR validation,
 but they are not genuine and should not be used for fraudulent purposes.
