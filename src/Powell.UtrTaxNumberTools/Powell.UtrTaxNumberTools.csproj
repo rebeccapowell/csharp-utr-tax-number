@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Powell.UtrTaxNumberTools</PackageId>
+    <Title>UK UTR Tax Number validator and generator.</Title>
+    <TargetFrameworks>net35;net40;net45;netstandard2.0</TargetFrameworks>
+    <AssemblyName>Powell.UtrTaxNumberTools</AssemblyName>
+  </PropertyGroup>
+
+</Project>

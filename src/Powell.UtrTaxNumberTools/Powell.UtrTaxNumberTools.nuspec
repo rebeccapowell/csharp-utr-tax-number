@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Powell.UtrTaxNumberTools</id>
+    <version>1.0.1</version>
+    <title>UK UTR Tax Number validator and generator.</title>
+    <authors>Rebecca Powell</authors>
+    <owners>Rebecca Powell</owners>
+    <licenseUrl>https://github.com/rebeccapowell/csharp-utr-tax-number/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/rebeccapowell/csharp-utr-tax-number/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This project allows you to validate UK Unique Tax Reference (UTR) Numbers. It also allows you to generate valid ones.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright &#x00A9; Rebecca Powell.  All rights reserved.</copyright>
+    <tags>UTR tax UK number generate validate checksum</tags>
+  </metadata>
+  <files>
+	<file src="bin\Debug\net35\Powell.UtrTaxNumberTools.dll" target="lib\net35\" />
+	<file src="bin\Debug\net35\Powell.UtrTaxNumberTools.pdb" target="lib\net35\" />
+	<file src="bin\Debug\net40\Powell.UtrTaxNumberTools.dll" target="lib\net40\" />
+	<file src="bin\Debug\net40\Powell.UtrTaxNumberTools.pdb" target="lib\net40\" />
+	<file src="bin\Debug\net45\Powell.UtrTaxNumberTools.dll" target="lib\net45\" />
+	<file src="bin\Debug\net45\Powell.UtrTaxNumberTools.pdb" target="lib\net45\" />
+	<file src="bin\Debug\netstandard2.0\Powell.UtrTaxNumberTools.dll" target="lib\netstandard2.0\" />
+	<file src="bin\Debug\netstandard2.0\Powell.UtrTaxNumberTools.pdb" target="lib\netstandard2.0\" />
+  </files>
+</package>
