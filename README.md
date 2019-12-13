@@ -3,8 +3,6 @@ Validation and Generation of UTR tax numbers.
 
 Supports net35, net40, net45 and netstandard20.
 
-[![Build status](https://powells.visualstudio.com/UtrNumberTools/_apis/build/status/UtrNumberTools-ASP.NET%20Core-CI)](https://powells.visualstudio.com/UtrNumberTools/_build/latest?definitionId=2)
-
 Warning: The UTR generator is for testing purposes only. It generates UTR numbers that pass the UTR validation,
 but they are not genuine and should not be used for fraudulent purposes.
 
