@@ -1,3 +1,5 @@
+![Logo](https://repository-images.githubusercontent.com/167525052/25ad5600-3302-11eb-840d-b877a27c630b)
+
 # csharp-utr-tax-number
 Validation and Generation of UTR tax numbers.
 
@@ -5,6 +7,10 @@ Supports net35, net40, net45 and netstandard20.
 
 Warning: The UTR generator is for testing purposes only. It generates UTR numbers that pass the UTR validation,
 but they are not genuine and should not be used for fraudulent purposes.
+
+```
+Install-Package Powell.UtrTaxNumberTools -Version 1.0.1
+```
 
 Nuget: https://www.nuget.org/packages/Powell.UtrTaxNumberTools/1.0.1
 
