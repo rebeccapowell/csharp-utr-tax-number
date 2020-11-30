@@ -27,7 +27,7 @@ Assert.That(result.Equals(true));
 var generator = new Generator();
 var utr = generator.Generate();
 
-// with ditrict
+// with district
 var generator = new Generator("020"); // london district
 var utr = generator.Generate();
 ```
